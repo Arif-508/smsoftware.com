@@ -1,0 +1,85 @@
+h1{background: rgb(0, 204, 255);
+    display: inline-block;
+    font-size: 100px;
+    text-shadow: 2px 2px red;
+    padding-left: 80px;
+    padding-right: 80px;
+    margin: 80px;
+    border:20px solid rgb(0, 195, 255)
+    
+    
+
+}
+h2{
+    font-size: 50px;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 80px;
+}
+p{
+    font-size: 25px;
+    line-height: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.link{
+  text-decoration: none;
+  background: rgb(9, 221, 203);
+  border:2px dashed rgb(238, 102, 102);
+  margin: 2px;
+
+}
+.link2{
+
+}
+h3{
+    text-decoration: underline;
+    font-size: 30px;
+}
+.skype{
+    text-decoration: none;
+    font-size: 20px;
+    margin: 20px;
+    margin-bottom: 40px;
+}
+.website{
+    font-size: 20px;
+    margin-bottom: 100px;
+    margin-left: 20px;
+   
+}
+.center{
+    height: 300px;
+    width: 300px;
+    background: rgb(85, 72, 72);
+    margin: 50px;
+    padding: 20px;
+    font-size: 20px;
+    font-style: italic;
+    box-shadow: 2px 3px red;
+    border-radius: 50%;
+    text-align: center;
+
+
+}
+.name{
+    font-size: 50px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background: red;
+    display: inline-block;
+    border-radius: 20px 0;
+    padding: 10px;
+    box-shadow: 2px 3px rgba(226, 83, 86 0.5);
+
+}
+footer{
+    
+    background: rgb(6, 133, 150);
+    padding: 2px;
+    border: 2px solid blue;
+    display: inline-block;
+    margin-left: 1000px;
+    margin-bottom: 50px;
+    
+}
